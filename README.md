@@ -60,13 +60,6 @@
   Inglês intermediário (conversação e escrita)
 </p>
 
-<h2 align="center">Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/higor44santos-png/higor44santos-png/output/github-stats.svg" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://raw.githubusercontent.com/higor44santos-png/higor44santos-png/output/top-langs.svg" alt="Linguagens mais usadas" />
-</p>
-
 <h2 align="center">Contribuições</h2>
 
 <p align="center">
