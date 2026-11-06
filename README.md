@@ -1,1 +1,78 @@
-<h1 align="center">Olá! Eu sou o Higor Santos</h1> <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas na UNICID, com foco em desenvolvimento web e sistemas para pequenos negócios.</h3> <p align="center"> Desenvolvo aplicações web que resolvem problemas reais do dia a dia de barbearias, salões e outros negócios de serviços, do código até a apresentação para o cliente. </p> <p align="center"> Uso o GitHub para organizar meus projetos e registrar a minha evolução. Trabalho com HTML, CSS, JavaScript, Python e Firebase, e estou em busca da minha primeira oportunidade na área de tecnologia. </p> <p align="center"> <a href="https://www.linkedin.com/in/higor-santos-047a47260" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/higor44santos-png" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p> <h2 align="center">Tecnologias e ferramentas</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,netlify,git,github,vscode" alt="Tecnologias e ferramentas" /> </p> <h2 align="center">Projetos em destaque</h2> <p align="center"> <b>Sistema de agendamento online</b><br> Sistema completo para barbearias e salões, com bloqueio de horários em tempo real, grade configurável por dia, cancelamento por código, escolha de vários serviços com cálculo automático do total e agendamento para mais de uma pessoa.<br> <i>HTML, CSS, JavaScript, Firebase (Firestore e Authentication), Cloudinary e Netlify</i> </p> <p align="center"> <b>CINEindex</b><br> Plataforma de avaliações de filmes desenvolvida na faculdade, com planos de assinatura (Curioso e Crítico), página de planos e página de perfil com avaliações, lista pessoal e ranking.<br> <i>HTML e CSS</i> </p> <p align="center"> <b>ALUNEA</b><br> Branding e conteúdo para uma marca de beleza, com carrosséis de Instagram gerados com Python e uma identidade visual minimalista, inspirada em cosméticos de luxo.<br> <i>Python (Pillow)</i> </p> <p align="center"> <a href="https://github.com/higor44santos-png?tab=repositories"> <img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSIT%C3%93RIOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" /> </a> </p> <h2 align="center">Formação</h2> <p align="center"> Análise e Desenvolvimento de Sistemas, UNICID (em andamento)<br> Crie um site simples usando HTML, CSS e JavaScript, Fundação Bradesco | Escola Virtual<br> Scratch, suas extensões e computação física, Fundação Bradesco | Escola Virtual<br> Inglês intermediário (conversação e escrita) </p> <h2 align="center">Estatísticas do GitHub</h2> <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=higor44santos-png&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor44santos-png&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" /> </p> <h2 align="center">Contribuições</h2> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/higor44santos-png/higor44santos-png/output/pacman-contribution-graph-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/higor44santos-png/higor44santos-png/output/pacman-contribution-graph.svg" /> <img alt="Gráfico de contribuições com o Pac-Man" src="https://raw.githubusercontent.com/higor44santos-png/higor44santos-png/output/pacman-contribution-graph.svg" /> </picture> </p>
+<h1 align="center">Olá! Eu sou o Higor Santos</h1>
+
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas na UNICID, com foco em desenvolvimento web e sistemas para pequenos negócios.</h3>
+
+<p align="center">
+  Desenvolvo aplicações web que resolvem problemas reais do dia a dia de barbearias, salões e outros negócios de serviços, do código até a apresentação para o cliente.
+</p>
+
+<p align="center">
+  Uso o GitHub para organizar meus projetos e registrar a minha evolução. Trabalho com HTML, CSS, JavaScript, Python e Firebase, e estou em busca da minha primeira oportunidade na área de tecnologia.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/higor-santos-047a47260" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/higor44santos-png" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<h2 align="center">Tecnologias e ferramentas</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,netlify,git,github,vscode" alt="Tecnologias e ferramentas" />
+</p>
+
+<h2 align="center">Projetos em destaque</h2>
+
+<p align="center">
+  <b>Sistema de agendamento online</b><br>
+  Sistema completo para barbearias e salões, com bloqueio de horários em tempo real, grade configurável por dia, cancelamento por código, escolha de vários serviços com cálculo automático do total e agendamento para mais de uma pessoa.<br>
+  <i>HTML, CSS, JavaScript, Firebase (Firestore e Authentication), Cloudinary e Netlify</i>
+</p>
+
+<p align="center">
+  <b>CINEindex</b><br>
+  Plataforma de avaliações de filmes desenvolvida na faculdade, com planos de assinatura (Curioso e Crítico), página de planos e página de perfil com avaliações, lista pessoal e ranking.<br>
+  <i>HTML e CSS</i>
+</p>
+
+<p align="center">
+  <b>ALUNEA</b><br>
+  Branding e conteúdo para uma marca de beleza, com carrosséis de Instagram gerados com Python e uma identidade visual minimalista, inspirada em cosméticos de luxo.<br>
+  <i>Python (Pillow)</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/higor44santos-png?tab=repositories">
+    <img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSIT%C3%93RIOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" />
+  </a>
+</p>
+
+<h2 align="center">Formação</h2>
+
+<p align="center">
+  Análise e Desenvolvimento de Sistemas, UNICID (em andamento)<br>
+  Crie um site simples usando HTML, CSS e JavaScript, Fundação Bradesco | Escola Virtual<br>
+  Scratch, suas extensões e computação física, Fundação Bradesco | Escola Virtual<br>
+  Inglês intermediário (conversação e escrita)
+</p>
+
+<h2 align="center">Estatísticas do GitHub</h2>
+
+<p align="center">
+  <img height="170" src="https://raw.githubusercontent.com/higor44santos-png/higor44santos-png/output/github-stats.svg" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://raw.githubusercontent.com/higor44santos-png/higor44santos-png/output/top-langs.svg" alt="Linguagens mais usadas" />
+</p>
+
+<h2 align="center">Contribuições</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/higor44santos-png/higor44santos-png/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/higor44santos-png/higor44santos-png/output/pacman-contribution-graph.svg" />
+    <img alt="Gráfico de contribuições com o Pac-Man" src="https://raw.githubusercontent.com/higor44santos-png/higor44santos-png/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
